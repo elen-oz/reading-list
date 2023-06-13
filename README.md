@@ -1,5 +1,10 @@
 # The Reading List
 
+To test:
+Email: notadmin@email.com
+Password: 123123
+
+
 #### Add book titles to the list so you don't forget to read!
 
 [Link to the project](https://readinglistsite-f3340.web.app/)
